@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
