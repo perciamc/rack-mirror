@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add Amazon Sagemaker Docs integrations page (#7293)
