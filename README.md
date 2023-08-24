@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix device counting method to account for double-digit device IDs (#8502)
