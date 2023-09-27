@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add CoreML Docs Integrations Page (#8063)
