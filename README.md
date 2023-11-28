@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update Discord and Contributing Guide URLs (#9270)
