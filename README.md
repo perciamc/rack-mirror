@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Improve Coral Edge TPU guide (#8160)
