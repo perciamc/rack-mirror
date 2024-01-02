@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
