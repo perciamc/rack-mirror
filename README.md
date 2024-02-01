@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
