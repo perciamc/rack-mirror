@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
