@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
