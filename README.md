@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Compress docs images (#8124)
