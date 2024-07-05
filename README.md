@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Fix docker.yaml double-quote version bug (#7452)
