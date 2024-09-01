@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+OBB: Fix plot_images (#7592)
